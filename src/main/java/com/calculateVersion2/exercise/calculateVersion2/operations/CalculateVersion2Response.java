@@ -2,6 +2,11 @@ package com.calculateVersion2.exercise.calculateVersion2.operations;
 
 import java.util.Date;
 
+/* @Author : Maria Pereira
+ **  @CalculateVersion2Response - gets and sets
+ ** @params - result, time
+ */
+
 public class CalculateVersion2Response {
 	private double result;
 	private Date time;
