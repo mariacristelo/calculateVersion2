@@ -40,5 +40,4 @@ public class CalculateVersion2 {
 		this.operation = operation;
 	}	
 	
-	
 }
