@@ -1,9 +1,9 @@
 package com.calculateVersion2.exercise.calculateVersion2.operations;
 
 
-/* @Author : Maria Pereira
- **  @CalculateVersion2 - gets and sets
- ** @params - value1, value2, operation
+/** @Author : Maria Pereira
+ *  @CalculateVersion2 - gets and sets
+ *  @params - value1, value2, operation
  */
 
 public class CalculateVersion2 {

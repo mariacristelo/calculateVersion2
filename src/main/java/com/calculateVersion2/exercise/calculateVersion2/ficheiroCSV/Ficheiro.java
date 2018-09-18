@@ -6,8 +6,8 @@ import java.io.InputStreamReader;
 
 import com.calculateVersion2.exercise.calculateVersion2.operations.CalculateVersion2;
 
-/* @Author : Maria Pereira
- **  @importFicheiro - importa o ficheiro csv
+/** @Author : Maria Pereira
+ *  @importFicheiro - importa o ficheiro csv
  */
 
 public class Ficheiro {
