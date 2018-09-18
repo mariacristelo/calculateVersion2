@@ -26,4 +26,6 @@ public class Ficheiro {
 		reader.close();	
 	}
 	
+	
+	
 }
