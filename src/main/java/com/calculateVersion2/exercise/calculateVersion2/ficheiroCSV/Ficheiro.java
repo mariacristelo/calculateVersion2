@@ -26,6 +26,10 @@ public class Ficheiro {
 		reader.close();	
 	}
 	
+	public void exportFicheiro () throws Exception {
+			
+	}
+	
 	
 	
 }

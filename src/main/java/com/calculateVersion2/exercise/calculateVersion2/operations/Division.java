@@ -1,6 +1,6 @@
 package com.calculateVersion2.exercise.calculateVersion2.operations;
 
-public class Division extends CalculateVersion2 {
+abstract class Division extends CalculateVersion2Builder {
 	
 	CalculateVersion2 values = new CalculateVersion2();
 	public double getDivision() {
