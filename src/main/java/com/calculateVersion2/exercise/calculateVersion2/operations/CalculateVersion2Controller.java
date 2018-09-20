@@ -14,6 +14,6 @@ public class CalculateVersion2Controller {
 	@RequestMapping(method=RequestMethod.POST, value="/calculate")
 	public CalculateVersion2Response calculate (@RequestBody CalculateVersion2 values) {
 		//throw new InvalidParametersException("Deu barraca");
-		return service;
+		return null;
 	}
 }
